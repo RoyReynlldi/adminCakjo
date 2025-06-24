@@ -140,7 +140,7 @@ export function Dashboard({ onLogout }: DashboardProps) {
               <ChefHat className="h-5 w-5 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-semibold text-white">Restaurant Admin</h1>
+              <h1 className="text-xl font-semibold text-white">Restaurant Admin CakJo!</h1>
               <p className="text-sm text-gray-400">Reservation Management System</p>
             </div>
           </div>
